@@ -1,3 +1,5 @@
 'Hello!'
 'Meomeomeo'
 "Em yeu Chu'
+'eh cai nay ki la qua'
+'lam lan t3 r van k hieu sao k chay'
